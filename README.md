@@ -3,7 +3,7 @@
 This is a almost fully responsive YouTube clone built using **HTML** and **CSS**. The goal of this project was to recreate the core layout and functionality of YouTube's homepage to practice front-end development skills and improve my understanding of responsive design.
 
 ### 🚀 Live Demo
-Check out the live version of the project here: [Live Demo](https://your-website-url.com)
+Check out the live version of the project here: [Live Demo](https://michael2021o.github.io/youtube/)
 
 ### 🚀 Future Enhancements
 
