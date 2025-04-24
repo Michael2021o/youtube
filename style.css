@@ -499,3 +499,33 @@ min-width: max-content;
     height: 2.5rem;
   }
 }
+
+  @media (max-width: 26em) {
+
+    .navbar {
+      display: flex;
+    }
+
+    .search-bar .mic-btn  {
+      display: none;
+    }
+
+    .fa-magnifying-glass {
+      right: -8px;
+      top: 0px;
+      font-size: 1.8rem;
+  }
+    }
+
+    .user-actions, aside {
+      display: none;
+    }
+
+   section, .video-card {
+      grid-column: 1 / -1;
+    }
+
+    /* .video-container {
+      grid-column: 1 / -1;
+    } */
+}
