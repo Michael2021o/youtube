@@ -500,7 +500,7 @@ min-width: max-content;
   }
 }
 
-  @media (max-width: 48em) {
+  @media (max-width: 52em) {
 
     .navbar {
       display: flex;
