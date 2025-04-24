@@ -454,7 +454,7 @@ min-width: max-content;
   }
 }
 
-@media (max-width: 48em) {
+@media (max-width: 58em) {
   .navbar {
     
     gap: 1rem;
