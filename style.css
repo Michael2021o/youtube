@@ -140,7 +140,7 @@ header {
     width: 100%;
     color: white;
     outline: none;
-    /* border-color: #e1002d; */
+  
     background-color: var(--grey-accent);
 
   }
